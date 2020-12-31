@@ -109,10 +109,10 @@ Planning all of the development project
 > <img src="Examples/release-plan.png" width="500" height="250">
 > <img src="Examples/technology-roadmap.png" width="500" height="250">
 ## Coding
-Start development process.Plan testing , CI/CD , clustering , backups , monitoring etc.
+Start development process.Plan testing , CI/CD , clustering , backups , monitoring etc.Also you can test and save all the API response to the api documentation after developed backend API.
 ## Release
 Release the version.
 ## Prepare&nbsp;for&nbsp;New&nbsp;Release
 Preparing for new version of software.
 ## Start&nbsp;Agile&nbsp;Development
-If planned releases have been done , start agile development.You can take feature requests or develop extra sections or fix bugs.
+If planned releases have been done , start agile development.You can take feature requests or develop extra sections or fix bugs.Also you probably want to save all of ip addresses or some kind of that workloads to a document.
