@@ -1,6 +1,6 @@
 > <img src="flowchart.png">
 # Abstract
-This document created for create algorithm of creating a software project.This document consist only my opinions and it may be change on a different situation.You can change flowchart by import diagram.drawio file to draw.io.<br>
+This document created for create algorithm of creating a software project.This document consist only my opinions and it may be change on a different situation.You can change flowchart by import diagram.drawio file to draw.io. <br>
 This documentation contains excerpts from <a href="https://www.altexsoft.com/blog/business/technical-documentation-in-software-development-types-best-practices-and-tools/">this page</a>
 # Table of Contents
 - [Which Problem Will You Solve?](#Which&nbsp;Problem&nbsp;Will&nbsp;You&nbsp;Solve?)
