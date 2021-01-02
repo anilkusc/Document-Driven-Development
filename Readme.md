@@ -89,7 +89,7 @@ It consist all kind of user operations on the UI.You can draw a flowchart for al
 It is for planning menus that all kind of users navigation on the ui.A separate flow chart can be drawn for each user.
 > <img src="Examples/user-feature-map.png" width="750" height="450">
 ## Wireframe
-You can sketch all of the UI screens.
+You can sketch all of the UI screens.(Recommend wireframepro.mockflow.com)
 > <img src="Examples/wireframe.png" width="500" height="250">
 ## Standarts,Methods,Directories,Structures,Scaffolding,Protocols
 Plan all of the rest plannings like specify protocols,functions,system requirements etc.
